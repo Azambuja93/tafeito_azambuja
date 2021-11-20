@@ -1,0 +1,29 @@
+{
+  "name": "tafeito_azambuja",
+  "version": "1.0.0",
+  "description": "projeto UFSCAR - Prof Danilo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azambuja93/tafeito_azambuja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azambuja93/tafeito_azambuja/issues"
+  },
+  "homepage": "https://github.com/Azambuja93/tafeito_azambuja#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.35",
+    "@types/react-dom": "^17.0.11",
+    "type-fest": "^2.5.4",
+    "typescript": "^4.5.2"
+  }
+}
